@@ -8,7 +8,7 @@
 - ❤️ I love to tweak around new technology and explore them
 - 💀 I am working on multiple projects and can't properly finish one
 - ⭐ I am currently busy with **studies** but trying to contribute as much as possible
-- 💻 I use Arch btw
+- 💻 I use Nix btw
 
 ## 🚀 My Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,svelte,react,nextjs,tailwindcss,mysql,mongodb,vscode,git,rust,linux)](https://skillicons.dev)
