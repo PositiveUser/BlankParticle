@@ -6,7 +6,7 @@
 - ✨ I am **Rahul Mishra** (he/him)
 - 🎓 I am a 18 Year old student *(Currently JEE 2025 Dropper)*
 - ❤️ I love to tweak around new technology and explore them
-- 💀 I am working on multiple projects and can't properly one
+- 💀 I am working on multiple projects and can't properly finish one
 - ⭐ I am currently busy with **studies** but trying to contribute as much as possible
 - 💻 I use Arch btw
 
